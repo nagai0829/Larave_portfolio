@@ -77,7 +77,7 @@
           </svg>
         </button>
 
-        <!-- Profile dropdown -->
+        <!-- 顔部分 -->
         <div class="ml-3 relative">
           <div>
             <button type="button" class="bg-gray-800 flex text-sm rounded-full focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-offset-gray-800 focus:ring-white" id="user-menu" aria-expanded="false" aria-haspopup="true">

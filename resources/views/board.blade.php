@@ -18,8 +18,6 @@
             <div class="col-span-1 rounded-full h-12 w-12 flex items-center justify-center bg-green-500 m-2">N</div>
         </div>
         <hr>
-
-
         <!-- board部分 -->
         <div class="grid grid-cols-12 gap-4">
 
@@ -185,8 +183,6 @@
 
             </div>          
           </div>
-
-
 
           <!-- メモ部分 -->
           <div class="m-2 p-4 relative bg-white col-span-7 rounded-lg">
